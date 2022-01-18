@@ -15,3 +15,4 @@ Listo, tenes tu proyecto corriendo. Ahora hay que realizar las tareas como indic
 Una vez terminada la actividad debes entregarla por el canal de Slack 💻
 
 A seguir practicando! 🎉🎉
+"# restaurante" 
