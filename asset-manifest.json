@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/proyectocarne/static/css/main.55ea8e36.css",
+    "main.js": "/proyectocarne/static/js/main.6844bf26.js",
+    "static/js/787.94e5cc11.chunk.js": "/proyectocarne/static/js/787.94e5cc11.chunk.js",
+    "static/media/Lechuga.png": "/proyectocarne/static/media/Lechuga.20eab0e1a79d5b65cbc5.png",
+    "static/media/Carne.png": "/proyectocarne/static/media/Carne.1d7eea984d94d44c8521.png",
+    "static/media/Panceta.png": "/proyectocarne/static/media/Panceta.292369f612e7f2639357.png",
+    "static/media/Tomate.png": "/proyectocarne/static/media/Tomate.90a24bb33f19b46b325e.png",
+    "static/media/Cebolla.png": "/proyectocarne/static/media/Cebolla.18bfb4276d8d6e0a9a3d.png",
+    "static/media/Papas.png": "/proyectocarne/static/media/Papas.fd7db472cebe917ca97a.png",
+    "static/media/Queso.png": "/proyectocarne/static/media/Queso.2687dd0090d045745d09.png",
+    "static/media/Jamon.png": "/proyectocarne/static/media/Jamon.d4b3f64ebfc22813fca1.png",
+    "index.html": "/proyectocarne/index.html",
+    "main.55ea8e36.css.map": "/proyectocarne/static/css/main.55ea8e36.css.map",
+    "main.6844bf26.js.map": "/proyectocarne/static/js/main.6844bf26.js.map",
+    "787.94e5cc11.chunk.js.map": "/proyectocarne/static/js/787.94e5cc11.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55ea8e36.css",
+    "static/js/main.6844bf26.js"
+  ]
+}
