@@ -16,3 +16,4 @@ Una vez terminada la actividad debes entregarla por el canal de Slack 💻
 
 A seguir practicando! 🎉🎉
 "# restaurante" 
+"# restaurante" 

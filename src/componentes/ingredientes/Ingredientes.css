@@ -1,0 +1,22 @@
+img{
+    width: 50px;
+}
+.card-body{
+    align-items: center;
+    height: 50px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    border: blue;
+    border-style: solid;
+    
+}
+
+.eliminar{
+    width: 10px;
+    height: 20px;
+    text-align: justify;
+}
+.container{
+  
+}
